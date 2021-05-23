@@ -1,0 +1,27 @@
+ZCZC ===== Chapter 07_5 =====  Week 09 =====
+ZCZC pwd /home/annisadevin/RESULT/W09
+ZCZC date 210523-2309
+ZCZC hostname annisadevin
+ZCZC username annisadevin
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  468M	/mnt/lfs/sources/
+ZCZC verifyTokenn annisadevinW09 annisadevin 0922-87E4 Verified
+ZCZC MaxLFS 3120M
+ZCZC MaxROOT 2757M
+ZCZC MaxMemory 86M
+ZCZC MaxSwap 0M
+ZCZC MaxMemory 88M
+ZCZC MaxMemory 93M
+ZCZC MaxMemory 96M
+ZCZC MaxMemory 97M
+ZCZC verifyTokenn annisadevinW09 annisadevin 1024-531C Verified
+ZCZC MaxMemory 98M
+ZCZC verifyTokenn annisadevinW09 annisadevin 1126-6131 Verified
+ZCZC verifyTokenn annisadevinW09 annisadevin 1227-D446 Verified
+ZCZC MaxMemory 99M
+ZCZC verifyTokenn annisadevinW09 annisadevin 1328-8EE1 Verified
+ZCZC verifyTokenn annisadevinW09 annisadevin 1430-8AAB Verified
+ZCZC verifyTokenn annisadevinW09 annisadevin 1531-2FD3 Verified
+ZCZC verifyTokenn annisadevinW09 annisadevin 1710-3BD2 Verified

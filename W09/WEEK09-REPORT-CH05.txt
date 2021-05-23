@@ -1,0 +1,238 @@
+ZCZC ===== Chapter 05 =====  Week 09 =====
+ZCZC pwd /home/annisadevin/RESULT/W09
+ZCZC date 210523-1855
+ZCZC hostname annisadevin
+ZCZC username annisadevin
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  431M	/mnt/lfs/sources/
+ZCZC verifyTokenn annisadevinW09 annisadevin 5541-5976 Verified
+ZCZC MaxLFS 482M
+ZCZC MaxROOT 2754M
+ZCZC MaxMemory 90M
+ZCZC MaxSwap 0M
+ZCZC MaxMemory 97M
+ZCZC MaxLFS 573M
+ZCZC MaxMemory 162M
+ZCZC MaxLFS 809M
+ZCZC MaxLFS 811M
+ZCZC MaxLFS 814M
+ZCZC MaxMemory 179M
+ZCZC verifyTokenn annisadevinW09 annisadevin 5643-D04C Verified
+ZCZC MaxLFS 823M
+ZCZC MaxLFS 835M
+ZCZC MaxROOT 2755M
+ZCZC MaxMemory 291M
+ZCZC MaxLFS 843M
+ZCZC MaxLFS 894M
+ZCZC MaxLFS 910M
+ZCZC MaxLFS 944M
+ZCZC MaxMemory 296M
+ZCZC MaxLFS 1035M
+ZCZC MaxROOT 2759M
+ZCZC MaxLFS 1053M
+ZCZC MaxLFS 1179M
+ZCZC verifyTokenn annisadevinW09 annisadevin 5745-8BBC Verified
+ZCZC MaxLFS 1327M
+ZCZC MaxLFS 1473M
+ZCZC MaxLFS 1509M
+ZCZC verifyTokenn annisadevinW09 annisadevin 5847-1327 Verified
+ZCZC MaxLFS 1510M
+ZCZC MaxLFS 1511M
+ZCZC MaxLFS 1513M
+ZCZC MaxLFS 1515M
+ZCZC MaxLFS 1518M
+ZCZC MaxLFS 1523M
+ZCZC MaxLFS 1525M
+ZCZC MaxMemory 299M
+ZCZC verifyTokenn annisadevinW09 annisadevin 5950-2203 Verified
+ZCZC MaxLFS 1540M
+ZCZC MaxLFS 1547M
+ZCZC MaxLFS 1550M
+ZCZC MaxLFS 1556M
+ZCZC MaxLFS 1558M
+ZCZC MaxLFS 1562M
+ZCZC MaxLFS 1565M
+ZCZC MaxLFS 1573M
+ZCZC MaxLFS 1575M
+ZCZC MaxLFS 1578M
+ZCZC verifyTokenn annisadevinW09 annisadevin 0052-3424 Verified
+ZCZC MaxLFS 1580M
+ZCZC MaxLFS 1581M
+ZCZC MaxLFS 1583M
+ZCZC MaxLFS 1592M
+ZCZC MaxLFS 1594M
+ZCZC MaxLFS 1597M
+ZCZC MaxLFS 1604M
+ZCZC MaxLFS 1613M
+ZCZC MaxMemory 613M
+ZCZC verifyTokenn annisadevinW09 annisadevin 0154-FBEE Verified
+ZCZC MaxLFS 1620M
+ZCZC MaxMemory 723M
+ZCZC MaxLFS 1629M
+ZCZC MaxMemory 795M
+ZCZC MaxLFS 1651M
+ZCZC MaxLFS 1660M
+ZCZC MaxLFS 1666M
+ZCZC MaxLFS 1675M
+ZCZC MaxLFS 1686M
+ZCZC MaxMemory 868M
+ZCZC MaxLFS 1687M
+ZCZC MaxMemory 1332M
+ZCZC MaxLFS 1690M
+ZCZC MaxMemory 1364M
+ZCZC MaxLFS 1699M
+ZCZC verifyTokenn annisadevinW09 annisadevin 0258-4427 Verified
+ZCZC MaxLFS 1709M
+ZCZC MaxLFS 1723M
+ZCZC MaxMemory 1390M
+ZCZC MaxLFS 1728M
+ZCZC MaxMemory 1665M
+ZCZC MaxLFS 1737M
+ZCZC MaxMemory 1861M
+ZCZC MaxLFS 1740M
+ZCZC MaxLFS 1742M
+ZCZC MaxLFS 1747M
+ZCZC MaxLFS 1749M
+ZCZC MaxLFS 1765M
+ZCZC verifyTokenn annisadevinW09 annisadevin 0402-4403 Verified
+ZCZC MaxLFS 1772M
+ZCZC MaxROOT 2761M
+ZCZC MaxLFS 1781M
+ZCZC MaxROOT 2771M
+ZCZC MaxLFS 1794M
+ZCZC MaxLFS 1801M
+ZCZC MaxLFS 1813M
+ZCZC MaxLFS 1817M
+ZCZC MaxROOT 2774M
+ZCZC MaxLFS 1822M
+ZCZC MaxMemory 1917M
+ZCZC MaxLFS 1827M
+ZCZC MaxMemory 2122M
+ZCZC MaxLFS 1830M
+ZCZC MaxMemory 2173M
+ZCZC MaxLFS 1831M
+ZCZC MaxROOT 2780M
+ZCZC verifyTokenn annisadevinW09 annisadevin 0505-9F50 Verified
+ZCZC MaxLFS 1836M
+ZCZC MaxROOT 2783M
+ZCZC MaxLFS 1839M
+ZCZC MaxLFS 1841M
+ZCZC MaxMemory 2176M
+ZCZC MaxLFS 1843M
+ZCZC MaxROOT 2790M
+ZCZC MaxLFS 1850M
+ZCZC MaxLFS 1854M
+ZCZC MaxROOT 2799M
+ZCZC MaxLFS 1872M
+ZCZC MaxLFS 1874M
+ZCZC MaxLFS 1884M
+ZCZC MaxLFS 1892M
+ZCZC MaxROOT 2871M
+ZCZC verifyTokenn annisadevinW09 annisadevin 0609-C19B Verified
+ZCZC MaxLFS 1905M
+ZCZC MaxLFS 1909M
+ZCZC MaxLFS 1923M
+ZCZC MaxLFS 1925M
+ZCZC MaxLFS 1928M
+ZCZC MaxLFS 1936M
+ZCZC MaxLFS 1945M
+ZCZC MaxLFS 2001M
+ZCZC MaxLFS 2004M
+ZCZC MaxLFS 2011M
+ZCZC verifyTokenn annisadevinW09 annisadevin 0713-E08E Verified
+ZCZC MaxLFS 2026M
+ZCZC MaxLFS 2033M
+ZCZC MaxLFS 2045M
+ZCZC MaxLFS 2056M
+ZCZC MaxLFS 2067M
+ZCZC MaxLFS 2074M
+ZCZC MaxLFS 2076M
+ZCZC MaxLFS 2086M
+ZCZC MaxLFS 2095M
+ZCZC MaxLFS 2100M
+ZCZC verifyTokenn annisadevinW09 annisadevin 0816-9BD5 Verified
+ZCZC MaxLFS 2105M
+ZCZC MaxLFS 2118M
+ZCZC MaxLFS 2122M
+ZCZC MaxLFS 2123M
+ZCZC MaxLFS 2133M
+ZCZC MaxLFS 2139M
+ZCZC MaxLFS 2147M
+ZCZC MaxLFS 2155M
+ZCZC MaxLFS 2170M
+ZCZC MaxLFS 2176M
+ZCZC verifyTokenn annisadevinW09 annisadevin 0919-1B3A Verified
+ZCZC MaxLFS 2183M
+ZCZC MaxLFS 2201M
+ZCZC MaxLFS 2204M
+ZCZC MaxLFS 2212M
+ZCZC MaxLFS 2225M
+ZCZC MaxLFS 2232M
+ZCZC MaxLFS 2243M
+ZCZC MaxLFS 2248M
+ZCZC MaxLFS 2261M
+ZCZC MaxLFS 2266M
+ZCZC verifyTokenn annisadevinW09 annisadevin 1023-7444 Verified
+ZCZC MaxLFS 2288M
+ZCZC MaxLFS 2297M
+ZCZC MaxLFS 2305M
+ZCZC MaxLFS 2316M
+ZCZC MaxLFS 2334M
+ZCZC MaxLFS 2349M
+ZCZC MaxLFS 2363M
+ZCZC MaxLFS 2372M
+ZCZC MaxLFS 2388M
+ZCZC MaxLFS 2396M
+ZCZC verifyTokenn annisadevinW09 annisadevin 1126-6131 Verified
+ZCZC MaxLFS 2403M
+ZCZC MaxLFS 2409M
+ZCZC MaxLFS 2425M
+ZCZC MaxLFS 2433M
+ZCZC MaxLFS 2441M
+ZCZC MaxLFS 2449M
+ZCZC MaxLFS 2460M
+ZCZC MaxLFS 2467M
+ZCZC MaxLFS 2493M
+ZCZC MaxLFS 2529M
+ZCZC verifyTokenn annisadevinW09 annisadevin 1229-FF49 Verified
+ZCZC MaxLFS 2572M
+ZCZC MaxLFS 2581M
+ZCZC MaxLFS 2590M
+ZCZC MaxLFS 2604M
+ZCZC verifyTokenn annisadevinW09 annisadevin 1331-6862 Verified
+ZCZC MaxLFS 2645M
+ZCZC MaxMemory 2363M
+ZCZC MaxLFS 3175M
+ZCZC MaxMemory 2590M
+ZCZC MaxLFS 3701M
+ZCZC MaxSwap 15M
+ZCZC MaxLFS 3708M
+ZCZC MaxLFS 3716M
+ZCZC verifyTokenn annisadevinW09 annisadevin 1433-9B0F Verified
+ZCZC verifyTokenn annisadevinW09 annisadevin 1535-E822 Verified
+ZCZC verifyTokenn annisadevinW09 annisadevin 1637-3597 Verified
+ZCZC verifyTokenn annisadevinW09 annisadevin 1739-F0B3 Verified
+ZCZC verifyTokenn annisadevinW09 annisadevin 1841-1225 Verified
+ZCZC verifyTokenn annisadevinW09 annisadevin 1942-0AFF Verified
+ZCZC verifyTokenn annisadevinW09 annisadevin 2045-BDC7 Verified
+ZCZC verifyTokenn annisadevinW09 annisadevin 2147-DB4D Verified
+ZCZC verifyTokenn annisadevinW09 annisadevin 2249-EFA6 Verified
+ZCZC verifyTokenn annisadevinW09 annisadevin 2351-976B Verified
+ZCZC verifyTokenn annisadevinW09 annisadevin 2453-498D Verified
+ZCZC verifyTokenn annisadevinW09 annisadevin 2555-BD60 Verified
+ZCZC MaxLFS 4569M
+ZCZC MaxLFS 4839M
+ZCZC verifyTokenn annisadevinW09 annisadevin 2656-E64A Verified
+ZCZC verifyTokenn annisadevinW09 annisadevin 2758-967D Verified
+ZCZC verifyTokenn annisadevinW09 annisadevin 2900-7991 Verified
+ZCZC verifyTokenn annisadevinW09 annisadevin 3003-B1DB Verified
+ZCZC verifyTokenn annisadevinW09 annisadevin 3106-AB87 Verified
+ZCZC verifyTokenn annisadevinW09 annisadevin 3209-88D1 Verified
+ZCZC verifyTokenn annisadevinW09 annisadevin 3311-63D8 Verified
+ZCZC verifyTokenn annisadevinW09 annisadevin 3413-5385 Verified
+ZCZC verifyTokenn annisadevinW09 annisadevin 3515-515A Verified
+ZCZC verifyTokenn annisadevinW09 annisadevin 3616-650D Verified
+ZCZC verifyTokenn annisadevinW09 annisadevin 3719-9E41 Verified
+ZCZC verifyTokenn annisadevinW09 annisadevin 3821-39DE Verified

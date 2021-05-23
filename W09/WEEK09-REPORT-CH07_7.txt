@@ -1,0 +1,104 @@
+ZCZC ===== Chapter 07_7 =====  Week 09 =====
+ZCZC pwd /home/annisadevin/RESULT/W09
+ZCZC date 210523-2318
+ZCZC hostname annisadevin
+ZCZC username annisadevin
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  468M	/mnt/lfs/sources/
+ZCZC verifyTokenn annisadevinW09 annisadevin 1814-0DE0 Verified
+ZCZC MaxLFS 3120M
+ZCZC MaxROOT 2757M
+ZCZC MaxMemory 99M
+ZCZC MaxSwap 0M
+ZCZC verifyTokenn annisadevinW09 annisadevin 1917-482A Verified
+ZCZC verifyTokenn annisadevinW09 annisadevin 2018-4109 Verified
+ZCZC MaxLFS 3427M
+ZCZC MaxMemory 166M
+ZCZC MaxLFS 3577M
+ZCZC MaxMemory 170M
+ZCZC MaxLFS 3658M
+ZCZC MaxMemory 174M
+ZCZC MaxLFS 3956M
+ZCZC MaxLFS 3998M
+ZCZC verifyTokenn annisadevinW09 annisadevin 2120-9039 Verified
+ZCZC verifyTokenn annisadevinW09 annisadevin 2221-FB3A Verified
+ZCZC verifyTokenn annisadevinW09 annisadevin 2322-2D69 Verified
+ZCZC verifyTokenn annisadevinW09 annisadevin 2423-F4A2 Verified
+ZCZC verifyTokenn annisadevinW09 annisadevin 2525-EF72 Verified
+ZCZC verifyTokenn annisadevinW09 annisadevin 2626-59C3 Verified
+ZCZC MaxMemory 355M
+ZCZC MaxMemory 1158M
+ZCZC MaxMemory 1425M
+ZCZC MaxMemory 1566M
+ZCZC MaxMemory 1897M
+ZCZC MaxMemory 2001M
+ZCZC MaxMemory 2160M
+ZCZC verifyTokenn annisadevinW09 annisadevin 2729-6ECD Verified
+ZCZC MaxMemory 2283M
+ZCZC MaxMemory 2361M
+ZCZC MaxMemory 2437M
+ZCZC MaxMemory 2495M
+ZCZC MaxMemory 2562M
+ZCZC MaxMemory 2597M
+ZCZC MaxMemory 2636M
+ZCZC MaxMemory 2663M
+ZCZC MaxMemory 2697M
+ZCZC MaxMemory 2725M
+ZCZC verifyTokenn annisadevinW09 annisadevin 2837-739F Verified
+ZCZC MaxMemory 2769M
+ZCZC MaxMemory 2794M
+ZCZC MaxMemory 2826M
+ZCZC MaxMemory 2854M
+ZCZC MaxMemory 2894M
+ZCZC MaxMemory 2926M
+ZCZC MaxMemory 2974M
+ZCZC MaxMemory 3012M
+ZCZC MaxMemory 3096M
+ZCZC MaxMemory 3151M
+ZCZC verifyTokenn annisadevinW09 annisadevin 2942-FF0A Verified
+ZCZC MaxMemory 3202M
+ZCZC MaxMemory 3246M
+ZCZC MaxMemory 3297M
+ZCZC MaxMemory 3342M
+ZCZC MaxMemory 3392M
+ZCZC MaxMemory 3457M
+ZCZC MaxMemory 3524M
+ZCZC MaxMemory 3582M
+ZCZC MaxMemory 3652M
+ZCZC MaxMemory 3706M
+ZCZC verifyTokenn annisadevinW09 annisadevin 3047-4DEF Verified
+ZCZC MaxMemory 3793M
+ZCZC MaxMemory 3850M
+ZCZC MaxMemory 3909M
+ZCZC MaxMemory 3951M
+ZCZC MaxMemory 3992M
+ZCZC MaxMemory 4038M
+ZCZC MaxMemory 4077M
+ZCZC MaxMemory 4110M
+ZCZC MaxMemory 4182M
+ZCZC MaxMemory 4234M
+ZCZC verifyTokenn annisadevinW09 annisadevin 3151-6839 Verified
+ZCZC MaxMemory 4280M
+ZCZC MaxMemory 4327M
+ZCZC MaxMemory 4361M
+ZCZC MaxMemory 4400M
+ZCZC MaxMemory 4439M
+ZCZC MaxMemory 4495M
+ZCZC MaxMemory 4550M
+ZCZC MaxSwap 1M
+ZCZC MaxMemory 4586M
+ZCZC MaxSwap 2M
+ZCZC MaxMemory 4642M
+ZCZC MaxSwap 5M
+ZCZC MaxMemory 4703M
+ZCZC MaxSwap 24M
+ZCZC verifyTokenn annisadevinW09 annisadevin 3257-0CC7 Verified
+ZCZC MaxSwap 151M
+ZCZC MaxSwap 281M
+ZCZC MaxSwap 361M
+ZCZC MaxSwap 452M
+ZCZC MaxSwap 487M
+ZCZC verifyTokenn annisadevinW09 annisadevin 3402-C15B Verified
+ZCZC MaxMemory 4714M
